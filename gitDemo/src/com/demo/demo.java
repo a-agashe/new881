@@ -15,7 +15,7 @@ public class demo {
 	}
 
 	private static int power(int i, int j) {
-		return(i**j);
+		return(i*j);
 		
 	}
 }
